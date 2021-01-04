@@ -154,6 +154,9 @@ use-cases. Simply install them to make them available:
   derive the cipher key.
 - `keyrings.osx_keychain_keys <https://pypi.org/project/keyrings.osx-keychain-keys>`_
   - OSX keychain key-management, for private, public and symmetric keys.
+- `keyrings.passwordstore <https://pypi.org/project/keyrings.passwordstore>`_
+  - pass - the standard unix password manager.
+ 
 
 
 Write your own keyring backend
